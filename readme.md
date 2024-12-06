@@ -1,4 +1,4 @@
-#CAT4004 dimmer Chip Class
+# CAT4004 dimmer Chip Class
 The CAT4004 is a 4 channel LED dimmer chip form [ON Semiconductors](https://www.onsemi.com/).  
 The current per channel is easyly programmeble through a single resistor.  
 The Brightness Control is done by one input line only.  
